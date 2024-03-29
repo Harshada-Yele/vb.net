@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\bin\Debug\Toyota_car_system.exe.config
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\bin\Debug\Toyota_car_system.exe
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\bin\Debug\Toyota_car_system.pdb
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.Form1.resources
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.Properties.Resources.resources
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.exe
+C:\Users\admin\source\repos\Toyota_car_system\Toyota_car_system\obj\Debug\Toyota_car_system.pdb
