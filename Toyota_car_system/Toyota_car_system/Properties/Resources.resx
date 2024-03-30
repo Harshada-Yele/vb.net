@@ -118,11 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="fortue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fortue.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="menup2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\menup2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rsup" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rsup.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="afor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\afor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="redlogo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\redlogo1.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="suprapse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\suprapse.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="menup1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\menup1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -130,14 +139,23 @@
   <data name="bssmoke" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bssmoke.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="homereds" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\homereds.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="redlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\redlogo.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="rsu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rsu.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fortu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fortu.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="credlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\credlogo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forpos1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forpos1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="menup2e" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\menup2e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,14 +163,20 @@
   <data name="menubg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\menubg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="redlogo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\redlogo1.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rsup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rsup.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menup11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menup11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bs" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bs.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="wsup" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wsup.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forpos2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forpos2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="menubg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\menubg1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,7 +187,7 @@
   <data name="cbluelogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cbluelogo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="menup11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\menup11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="afore" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\afore.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

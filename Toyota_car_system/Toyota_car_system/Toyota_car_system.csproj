@@ -128,5 +128,29 @@
   <ItemGroup>
     <None Include="Resources\menup11.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suprapse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homereds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fortu.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fortue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forpos1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forpos2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\afor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\afore.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

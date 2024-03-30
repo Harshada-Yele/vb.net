@@ -63,6 +63,26 @@ namespace Toyota_car_system.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap afor {
+            get {
+                object obj = ResourceManager.GetObject("afor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap afore {
+            get {
+                object obj = ResourceManager.GetObject("afore", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bs {
             get {
                 object obj = ResourceManager.GetObject("bs", resourceCulture);
@@ -106,6 +126,56 @@ namespace Toyota_car_system.Properties {
         internal static System.Drawing.Bitmap credlogo {
             get {
                 object obj = ResourceManager.GetObject("credlogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap forpos1 {
+            get {
+                object obj = ResourceManager.GetObject("forpos1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap forpos2 {
+            get {
+                object obj = ResourceManager.GetObject("forpos2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fortu {
+            get {
+                object obj = ResourceManager.GetObject("fortu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fortue {
+            get {
+                object obj = ResourceManager.GetObject("fortue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap homereds {
+            get {
+                object obj = ResourceManager.GetObject("homereds", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -206,6 +276,16 @@ namespace Toyota_car_system.Properties {
         internal static System.Drawing.Bitmap rsup {
             get {
                 object obj = ResourceManager.GetObject("rsup", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap suprapse {
+            get {
+                object obj = ResourceManager.GetObject("suprapse", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
